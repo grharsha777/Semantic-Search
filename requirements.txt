@@ -1,0 +1,13 @@
+google-generativeai
+python-dotenv
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+tqdm
+requests
+pydantic
