@@ -11,3 +11,4 @@ wordcloud
 tqdm
 requests
 pydantic
+pytest
