@@ -1,9 +1,3 @@
-git add .
-git commit -m "Initial scaffold: secure keys, package, CI"
-git remote add origin https://github.com/grharsha777/Semantic-Search.git
-git branch -M main
-git push -u origin main
-Semantic Search — production-ready, secure semantic search scaffold
 
 Overview
 --------
